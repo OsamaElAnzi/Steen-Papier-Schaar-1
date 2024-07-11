@@ -1,0 +1,1 @@
+Dit bestand moet in een htdocs folder gerunt worden, omdat je apache nodig hebt. 
